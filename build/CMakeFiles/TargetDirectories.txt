@@ -1,0 +1,3 @@
+/home/sanse/linux-monitor/build/CMakeFiles/monitor.dir
+/home/sanse/linux-monitor/build/CMakeFiles/edit_cache.dir
+/home/sanse/linux-monitor/build/CMakeFiles/rebuild_cache.dir

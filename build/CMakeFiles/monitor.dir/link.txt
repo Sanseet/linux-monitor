@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/monitor.dir/link.d CMakeFiles/monitor.dir/src/main.cpp.o CMakeFiles/monitor.dir/src/cpu_monitor.cpp.o CMakeFiles/monitor.dir/src/memory_monitor.cpp.o CMakeFiles/monitor.dir/src/process_monitor.cpp.o CMakeFiles/monitor.dir/src/display.cpp.o -o monitor

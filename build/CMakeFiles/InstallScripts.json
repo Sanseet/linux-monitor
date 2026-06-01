@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/sanse/linux-monitor/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

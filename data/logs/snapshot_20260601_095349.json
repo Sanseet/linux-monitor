@@ -1,0 +1,21 @@
+{
+  "timestamp": "20260601_095349",
+  "cpu_percent": 0.0831947,
+  "memory": {
+    "used_kb": 640556,
+    "total_kb": 7021776,
+    "percent": 9.12242
+  },
+  "processes": [
+    {"pid": 2477, "name": "dockerd", "mem_kb": 84560, "threads": 16},
+    {"pid": 2282, "name": "containerd", "mem_kb": 46420, "threads": 14},
+    {"pid": 260, "name": "unattended-upgr", "mem_kb": 31676, "threads": 2},
+    {"pid": 182, "name": "networkd-dispat", "mem_kb": 28224, "threads": 1},
+    {"pid": 61, "name": "systemd-journal", "mem_kb": 16000, "threads": 1},
+    {"pid": 1, "name": "systemd", "mem_kb": 14660, "threads": 1},
+    {"pid": 802, "name": "ubuntu-insights", "mem_kb": 13856, "threads": 8},
+    {"pid": 97, "name": "systemd-resolve", "mem_kb": 13824, "threads": 1},
+    {"pid": 686, "name": "systemd", "mem_kb": 13056, "threads": 1},
+    {"pid": 1617, "name": "systemd", "mem_kb": 13056, "threads": 1}
+  ]
+}
