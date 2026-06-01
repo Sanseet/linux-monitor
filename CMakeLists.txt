@@ -12,6 +12,8 @@ add_executable(monitor
     src/memory_monitor.cpp
     src/process_monitor.cpp
     src/display.cpp
+    src/logger.cpp
 )
 
 target_compile_options(monitor PRIVATE -Wall -Wextra -O2)
+target_link_libraries(monitor pthread)
