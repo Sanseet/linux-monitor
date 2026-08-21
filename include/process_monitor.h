@@ -15,6 +15,7 @@ struct ProcessInfo {
 class ProcessMonitor {
 public:
     std::vector<ProcessInfo> getTopProcesses(int n = 10);
+    bool getProcessByPID(int pid, ProcessInfo& process);
 private:
     double getTotalMemKB();
 };
